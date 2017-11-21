@@ -1,0 +1,58 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Kitchen_Aid_StandMixers_micro.com" resolutions="1x,2x" timestamp="1434994633042">
+  <folder name="css">
+    <file name="site_global.css" crc="3974863377"/>
+    <file name="index.css" crc="65253328" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="kitchenaid-logo_white.png" crc="472708717" seo="true" ref="index"/>
+    <file name="kitchenaid-logo_white_2x.png" crc="4101191991" seo="true" ref="index"/>
+    <file name="contemporary-zoom.jpg" crc="468820149" seo="true" ref="index"/>
+    <file name="kitchenaid-logo_red.png" crc="4145867619" seo="true" ref="index"/>
+    <file name="kmx0490z.png" crc="213218034" seo="true" ref="index"/>
+    <file name="kmx0490z_2x.png" crc="15304413" seo="true" ref="index"/>
+    <file name="p080634_1z.png" crc="4042943699" seo="true" ref="index"/>
+    <file name="p080634_1z_2x.png" crc="3976590148" seo="true" ref="index"/>
+    <file name="halloween-black.jpg" crc="4223527058" seo="true" ref="index"/>
+    <file name="halloween-black_2x.jpg" crc="3783751123" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="halloween-orange.jpg" crc="265433164" seo="true" ref="index"/>
+    <file name="halloween-orange_2x.jpg" crc="242608476" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="christmas-cream.jpg" crc="4246609617" seo="true" ref="index"/>
+    <file name="christmas-cream_2x.jpg" crc="4278747987" seo="true" ref="index"/>
+    <file name="christmas-white.jpg" crc="446874237" seo="true" ref="index"/>
+    <file name="christmas-white_2x.jpg" crc="3981187932" seo="true" ref="index"/>
+    <file name="summer-cyan.jpg" crc="4071036971" seo="true" ref="index"/>
+    <file name="summer-cyan_2x.jpg" crc="223141941" seo="true" ref="index"/>
+    <file name="summer-pink.jpg" crc="3787859413" seo="true" ref="index"/>
+    <file name="summer-pink_2x.jpg" crc="419371185" seo="true" ref="index"/>
+    <file name="autumn-apple-cider.jpg" crc="480324407" seo="true" ref="index"/>
+    <file name="autumn-apple-cider_2x.jpg" crc="68596206" seo="true" ref="index"/>
+    <file name="autumn-red.jpg" crc="392344266" seo="true" ref="index"/>
+    <file name="autumn-red_2x.jpg" crc="501261719" seo="true" ref="index"/>
+    <file name="stand-mixer-4l.png" crc="4180933305" seo="true" ref="index"/>
+    <file name="stand-mixer-4l_2x.png" crc="139534527" seo="true" ref="index"/>
+    <file name="stand-mixer-6l.png" crc="3959136964" seo="true" ref="index"/>
+    <file name="stand-mixer-6l_2x.png" crc="4097032930" seo="true" ref="index"/>
+    <file name="power-hub.png" crc="4019420751" seo="true" ref="index"/>
+    <file name="power-hub_2x.png" crc="3974716676" seo="true" ref="index"/>
+    <file name="multiple-beaters.png" crc="4178664725" seo="true" ref="index"/>
+    <file name="multiple-beaters_2x.png" crc="120391498" seo="true" ref="index"/>
+    <file name="bowl-options.png" crc="38941798" seo="true" ref="index"/>
+    <file name="bowl-options_2x.png" crc="354152592" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3864429114" seo="true" mt="1434987660924" redirect="true"/>
+</manifest>
